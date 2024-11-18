@@ -74,7 +74,7 @@ Este bootcamp não foi apenas sobre aprender ferramentas, mas sobre desenvolver 
 
 ### 📸 **Imagem do Bootcamp**
 Clique no link abaixo para visualizar o banner:  
-[**Imagem do Bootcamp**](link-para-seu-arquivo.jpg)
+[**Imagem do Bootcamp**](assets/banner.jpg)
 
 ---
 
